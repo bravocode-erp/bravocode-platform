@@ -1,0 +1,6 @@
+docs/
+LAB*.js
+benchmark/
+BigDecimal*.js
+scopeleaks*.js
+*smartclient*
